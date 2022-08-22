@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Jessicas-MBP-2.lan 21.6.0 Darwin Kernel Version 21.6.0: Sat Jun 18 17:07:25 PDT 2022; root:xnu-8020.140.41~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/local/bin/git] git version 2.14.1
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 17 2022 21:25:24)
+CURL:	[/Users/jessicalynch/opt/anaconda3/bin/curl] curl 7.71.1 (x86_64-apple-darwin13.4.0) libcurl/7.71.1 OpenSSL/1.1.1g zlib/1.2.11 libssh2/1.9.0
+NODE:	[/Users/jessicalynch/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
